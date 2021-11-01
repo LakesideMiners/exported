@@ -1,3 +1,7 @@
+# About This Fork
+Just messing about, please dont use this for anything that you dont want getting fucked up. No Support is offered and all PRs will be closed unless sumbited by me.
+
+
 # F-List Exported
 This repository contains the open source parts of F-list and F-Chat 3.0.
 All necessary files to build F-Chat 3.0 as an Electron, mobile or web application are included.
